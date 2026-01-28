@@ -34,3 +34,4 @@ SELECT
     event_count
 FROM gold.github_trending
 ORDER BY event_count DESC;
+
